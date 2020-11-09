@@ -19,7 +19,7 @@ public class gitLaunch {
         //Using get() method to open a webpage
         driver.get("https://artoftesting.com");
         driver.manage().window().maximize();
-        Thread.sleep(3000);
+        Thread.sleep(5000);
         
         //Closing the browser
         driver.quit();
