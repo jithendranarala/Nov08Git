@@ -21,7 +21,7 @@ public class SmallestAndLargestInArray {
 		System.out.println("Largest " + largest);
 		System.out.println("Smallest" + smallest);
 		
-				
+		//This is for testing		
 		
 	}
 
